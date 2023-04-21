@@ -38,3 +38,49 @@
 /itstack-demo-design-21-00/itstack-demo-design-21-00.iml
 /itstack-demo-design-22-00/itstack-demo-design-22-00.iml
 */target/
+# Compiled class file
+*.class
+*.iml
+*.idea
+target/
+logs/
+.idea/
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*velocity.log*
+
+# Eclipse #
+.classpath
+.factorypath
+.project
+.springBeans
+.settings
+.settings/
+
+
+.DS_Store
+
+_dockerCerts/
+
+*.lck
+/.gitattributes
+/README.md
+classes/artifacts/
